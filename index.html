@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Validacion de Password</title>
+    <link rel="stylesheet" type="text/css" href="estilos.css">
+    <script src="scripts/fontawesome.min.js"></script>
+</head>
+<body>
+    <div class="contenedor">
+        <h1>Validación de Password</h1>
+        <div class="instrucciones">
+            Ingresar un password que cumpla las siguientes características:
+            <ul>
+                <li>Debe tener, por lo menos, 8 caracteres</li>
+                <li>Debe contener una letra mayúscula</li>
+                <li>Debe contener una letra minúscula</li>
+                <li>Debe tener un número</li>
+                <li>Debe tener, por lo menos dos, de los siguientes caracteres especiales: 
+                    <br>@  #  $  -  _  !  ?  *  %  &</li>
+            </ul>
+        </div>
+        <form>
+            <div class="recuadroPassword">
+                <input type="password" class="campo" id="pw" placeholder=" ingrese su password" />
+                <button type="button" class="iconButton"><i class="fas fa-eye-slash" id="icono"></i></button>
+            </div>
+            <br>
+            <button type="button" class="boton">Validar Password</button>
+        </form>
+        <ul id="msj"></ul>
+    </div>
+    
+</body>
+</html>
