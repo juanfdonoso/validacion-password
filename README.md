@@ -1,4 +1,4 @@
-# validacion-password
+# Ejercicio de validación de un password
  
 Realizar la validación de un password de modo que cumpla las siguientes condiciones:
 
@@ -8,3 +8,4 @@ Realizar la validación de un password de modo que cumpla las siguientes condici
 4. Debe contener, por lo menos, un número
 5. Debe contener, por lo menos, dos de los siguientes caracteres: @ # $ - _ ! ? * % &
 
+## Funcionamiento
