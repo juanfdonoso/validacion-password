@@ -24,9 +24,9 @@ Realizar la validación de un password de modo que cumpla las siguientes condici
 
 7. La tarea debe subirse al servidor de diseño, a su carpeta personal, usando un programa ftp client como <b>cyberduck</b>. Incluir, por favor, todo los archivos que se necesitan para esta tarea (estilos, scripts, etc.). Crear un folder que diga <b>tarea 1</b> en su folder personal del servidor.
 
-##Calificación
-<table border="1">
-	<tr><td>Mostrar / Ocultar passwore</td><td> 1 pt </td></tr>
+## Calificación
+<table border="0">
+	<tr><td>Mostrar / Ocultar password</td><td> 1 pt </td></tr>
 	<tr><td>Cambiar el ícono del ojito</td><td> 2 pts</td></tr>
 	<tr><td>Mostrar mensajes de validación como una lista</td><td> 4 pts </td></tr>
 	<tr><td>Colocar los estilos en los mensajes de validación</td><td> 3 pts </td></tr>
