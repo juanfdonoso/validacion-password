@@ -10,7 +10,7 @@ Realizar la validación de un password de modo que cumpla las siguientes condici
 	5. Debe contener, por lo menos, dos de los siguientes caracteres: @ # $ - _ ! ? * % &
 
 ## Funcionamiento
-1. El ícono del ojito, a la derecha del campo en el que se ingresa el password, muestra y esconde el password ingresado, al dar un click sobre el mismo.  Además de mostrar y ocultar el password, el ícono cambia entre un ojito tachado y un ojito sin tachar
+1. El ícono del ojito, a la derecha del campo en el que se ingresa el password, muestra y esconde el password ingresado, al dar un click sobre el mismo.  Además de mostrar y ocultar el password, el ícono cambia entre un ojito tachado y un ojito sin tachar. Referirse al ejercicio realizado en clase que muestra y oculta un password realizado el <a href="http://www.dis.uia.mx/profesores/juanfdonoso/spring2020/dci3/clases/enero22.zip">22 de enero</a>.
 
 2. La función que valida el password debe revisar las cinco condiciones antes indicadas y generar un mensaje de error para cada condición que no se cumpla.  Si, por ejemplo, no se ingresa ningún password en el campo para el efecto y se preciona el botón que valida el password, se deben generar 5 mensajes de error, ya que dicho campo vacío no cumpliría ninguna de las condiciones establecidas.
 
